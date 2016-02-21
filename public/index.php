@@ -1,6 +1,6 @@
 <?php
 
-die('oh yes');
+phpinfo();
 
 /**
  * Laravel - A PHP Framework For Web Artisans
